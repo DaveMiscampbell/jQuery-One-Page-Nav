@@ -1,0 +1,19 @@
+{
+  "name": "jquery-one-page-nav",
+  "version": "3.0.0",
+  "description": "A lightweight jQuery plugin for the navigation on one-page sites. Adds smooth scrolling when clicking on the navigation and automatically selects the correct navigation items as you are scrolling through the different sections.",
+  "main": "jquery.nav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveMiscampbell/jQuery-One-Page-Nav.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveMiscampbell/jQuery-One-Page-Nav/issues"
+  },
+  "homepage": "https://github.com/DaveMiscampbell/jQuery-One-Page-Nav#readme"
+}
